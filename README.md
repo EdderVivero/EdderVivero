@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2>Este repositorio es recurso de aprendizaje de un curso de github</h2>
+<h2>Este repositorio es un recurso de aprendizaje de un curso de github</h2>
 
 <!--
 **EdderVivero/EdderVivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
